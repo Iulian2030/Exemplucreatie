@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Creator sau Creație</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px 0;
+        }
+        main {
+            padding: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Creator sau Creație</h1>
+    </header>
+    <main>
+        <p>Bine ați venit pe pagina dedicată explorării conceptului de creator și creație. Aici puteți găsi reflecții, articole și imagini care provoacă gândirea și inspirația.</p>
+        <img src="imaginea-ta.jpg" alt="Descrierea imaginii">
+    </main>
+    <footer>
+        <p>&copy; 2024 Creator sau Creație</p>
+    </footer>
+</body>
+</html>
